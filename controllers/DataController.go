@@ -1,4 +1,4 @@
-package randoms
+package controllers
 
 import (
 	"net/http"
